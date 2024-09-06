@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Akbar Amin</h1>
-<h3 align="center">A passionate Full Stack Web and Android developer from Pakistan</h3>
+<h3 align="center">A passionate Native Android developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarameen&label=Profile%20views&color=0e75b6&style=flat" alt="akbarameen" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/akbarramin" target="blank"><img src="https://img.shields.io/twitter/follow/akbarramin?logo=twitter&style=for-the-badge" alt="akbarramin" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript and Kotlin**
+- 🌱 I’m currently learning **Spring Boot and Kotlin Coroutines**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
